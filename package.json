@@ -1,7 +1,11 @@
 {
   "dependencies": {
+    "@mui/icons-material": "^5.14.3",
+    "@mui/material": "^5.14.3",
+    "@mui/styled-engine-sc": "^5.12.0",
     "create-react-app": "^5.0.1",
     "helloworld": "^0.0.0",
+    "styled-components": "^5.3.11",
     "webapp": "^0.0.2"
   }
 }
